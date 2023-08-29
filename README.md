@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Braybuss
 - 👀 I’m interested in Coding useful software and games
-- 🌱 I’m currently learning Pytohn, Java next year
+- 🌱 I’m currently learning Python, I have a bit of Java knowlege
 - 💞️ I’m looking to collaborate on Making something? I dont really know
 - 📫 How to reach me discord: Braybuss#2353
 
